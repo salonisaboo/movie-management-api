@@ -29,13 +29,15 @@ A professional, lightweight Java backend application built using **Spring Boot**
 - Maven (optional if using Maven Wrapper)
 
 ---
+## 🔗 Live Demo
+The API is deployed and accessible at: https://movie-management-api-production-4c7e.up.railway.app
 
 ## 🏃 Getting Started
 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/movie-management-api.git
+git clone https://github.com/salonisaboo/movie-management-api.git
 cd movie-management-api
 Run Application
 mvn spring-boot:run
