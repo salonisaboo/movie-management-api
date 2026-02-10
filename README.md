@@ -41,7 +41,7 @@ Run Application
 mvn spring-boot:run
 Server runs at:
 
-http://localhost:8086
+http://localhost:8080
 API Endpoints
 Add a New Movie
 Method: POST
